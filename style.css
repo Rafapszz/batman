@@ -1,0 +1,47 @@
+ {
+padding: 0px;
+margin: 0px;
+}
+
+body {
+background-color: #94C8D8;
+height: 100%;
+
+}
+
+.capa {
+width: 100%;
+object-fit: cover;
+height: 400px; /*mudar*/
+}
+
+.infoHeader {
+padding-top: 15px;
+background-color: black;
+}
+
+.titulo{
+text-align: center;
+color:aliceblue
+}
+
+nav a {
+text-decoration: none;
+color: aliceblue;
+padding: 30px;
+font-size: 20px;
+font-weight: bold;
+}
+
+nav {
+padding: 20px;
+}
+
+nav a:hover{
+color:rgb(39,10, 229)
+}
+
+.introducao h2 {
+text-align: center;
+font-size: 40px;
+}
